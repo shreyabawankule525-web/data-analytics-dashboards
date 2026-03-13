@@ -28,5 +28,7 @@ Key Insights:
 - Sales trends and patterns
 
 ## Author
-Shreya Bawankule  
-Aspiring Data Analyst
+Name: Shreya Bawankule  
+Email: shreyabawankule525@gmail.com  
+LinkedIn: https://www.linkedin.com/in/shreya-bawankule/
+GitHub: https://github.com/shreyabawankule525-web
